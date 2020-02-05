@@ -1,0 +1,23 @@
+$nome
+============
+*Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
+
+**Equipe:** $equipe
+**Financiamento:** $financiadores
+**Data:** $data, atualização $periodicidade
+**Licença de compartilhamento:** $licenca (ver arquivo _LICENÇA.txt)
+
+## Conteúdo
+São parte deste conjunto de dados:
+$alvos
+
+$conteudo 
+
+## Metodologia
+$metodologia
+
+## Finalidade
+$finalidade
+
+## Dados externos
+$terceiros
