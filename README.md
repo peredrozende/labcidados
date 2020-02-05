@@ -9,15 +9,15 @@ Este repositório possui a seguinte estrutura principal:
 
     LabCidados
     ├ LabCidados py
-    │  ├ LabCidados.pyw
-    │  ├ licencas
-    │  │  └ […]
-    │  ├ recursos
-    │  │  └ […]
-    │  └ LabCidados.ui
+    │   ├ LabCidados.pyw
+    │   ├ licencas
+    │   │   └ […]
+    │   ├ recursos
+    │   │   └ […]
+    │   └ LabCidados.ui
     ├ LabCidados 2020-1
-    │  ├ LabCidados.exe
-    │  └ […]
+    │   ├ LabCidados.exe
+    │   └ […]
     ├ LICENSE
     └ README.md
 
