@@ -2,7 +2,6 @@
 Empacotador de dados abertos do [LabCidade - FAUUSP](http://www.labcidade.fau.usp.br/), desenvolvido para documentação e divulgação de dados produzidos ou retrabalhados pelo laboratório.
 
 *Último congelamento: LabCidados 2020.1 (05/01/2020)*
-
 *Próxima versão: Sem previsão*
 
 ## Conteúdo
