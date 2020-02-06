@@ -7,7 +7,7 @@ Empacotador de dados abertos do [LabCidade - FAUUSP](http://www.labcidade.fau.us
 ## Conteúdo
 Este repositório possui a seguinte estrutura principal:
 
-    LabCidados
+    labcidados
     ├ LabCidados py
     │   ├ LabCidados.pyw
     │   ├ licencas
